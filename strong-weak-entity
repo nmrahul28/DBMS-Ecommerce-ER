@@ -1,0 +1,3 @@
+Strong entity:Supplier, Customer, Order
+
+weak entity:Item
